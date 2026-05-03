@@ -21,4 +21,4 @@ function atualizar() {
 atualizar();
 
 // atualiza a cada 5s
-setInterval(atualizar, 5000);
+setInterval(atualizar, 1000);
