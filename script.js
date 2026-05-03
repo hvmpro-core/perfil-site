@@ -1,4 +1,4 @@
-const URL = "https://raw.githubusercontent.com/hvmpro/perfil-analise/main/resumo.json";
+const URL = "https://raw.githubusercontent.com/hvmpro-core/perfil-analise/main/resumo.json";
 
 fetch(URL)
   .then(response => {
